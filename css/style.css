@@ -82,9 +82,9 @@ a {
   text-align: left;
 }
 
-.news-logottl {
-  margin-left: 240px;
-  line-height: 30px;
+
+.news-midasi {
+  margin: 0 auto;
 }
 
 .news-logo {
@@ -103,7 +103,7 @@ a {
 .news-list {
   border-bottom: 3px solid rgb(105, 103, 103);
   border-top: 3px solid rgb(105, 103, 103);
-  margin: 40px auto 0;
+  margin: 40px 0;
   width: 60%;
   list-style: none;
 }
@@ -121,7 +121,7 @@ a {
 }
 
 .news-list-link {
-  padding: 20px auto 0;
+
   line-height: 80px;
 }
 
@@ -129,7 +129,6 @@ a {
   background-color: rgb(172, 18, 152);
   color: #fff;
   border-radius: 10px;
-  margin: 0 20px;
   padding: 10px 10px;
 }
 
