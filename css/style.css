@@ -85,7 +85,7 @@ a {
 
 .news-midasi {
   margin: 0 auto;
-  width: 60%;
+  width: 50%;
 }
 
 .news-logo {
@@ -107,6 +107,7 @@ a {
   margin: 40px 0;
   width: 100%;
   list-style: none;
+  text-align: center;
 }
 
 .news-list-li {
@@ -122,7 +123,6 @@ a {
 }
 
 .news-list-link {
-
   line-height: 80px;
 }
 
@@ -318,11 +318,13 @@ a {
   margin-top: 100px;
   padding-top: 50px;
   line-height: 30px;
+  margin-left: 20px;
 }
 
 .blog-ttl {
   font-size: 18px;
   color: black;
+  margin-left: 20px;
 }
 
 .flex-blog-item {
@@ -334,12 +336,11 @@ a {
 }
 
 .blog-back {
-  width: 24%;
-  height: 370px;
-  margin: auto 0;
+  width: 100%;
+  margin: 20px;
   background-color: #fff;
   background-image: url(../img/blog__first.jpg) ;
-  background-size: 320px 200px;
+  background-size: 100%;
   background-repeat: no-repeat;
   border-radius:10px
 }
@@ -360,7 +361,8 @@ a {
 }
 
 .blog-item-ttl {
-  margin-top: 190px;
+  margin-top: 225px;
+  font-size: 20px;
   line-height: 25px;
   display: inline-block;
   text-align: left;
@@ -370,7 +372,7 @@ a {
   display: flex;
   justify-content: space-between;
   list-style: none;
-  margin-top: 40px;
+  margin: 40px 10px;
 }
 
 .blog-item-date {
