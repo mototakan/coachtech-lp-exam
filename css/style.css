@@ -362,7 +362,8 @@ a {
 
 .blog-item-ttl {
   margin-top: 225px;
-  font-size: 20px;
+  padding: 0 20px;
+  font-size: 18px;
   line-height: 25px;
   display: inline-block;
   text-align: left;
